@@ -1,0 +1,29 @@
+git clone <url>
+-- git clone https://github.com/woodpeck12/lecture01.git
+-- download from  server
+
+git add <filename>
+-- git add hello.html
+-- before commit....
+
+
+git commit -m "message"
+-- add file 을 new versin snap shot
+
+git status
+--current status
+
+git push
+-- from local to somewhere
+
+git pull
+-- download latest to locally
+
+
+git reset --hard hashcode
+git reset --hard origin/master
+
+git reflog
+
+
+
